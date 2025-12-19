@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MeghalBaile](https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories))
 
-- 👨‍💻 All of my Data Tech projects are available at [https://github.com/MeghalDoesData](https://github.com/MeghalDoesData](https://github.com/MeghalDoesData?tab=repositories))
+- 👨‍💻 All of my Data Tech projects are available at [https://github.com/MeghalDoesData](https://github.com/MeghalDoesData?tab=repositories))
 
 - 💬 Ask me about **Pandas, Numpy, PowerBI**
 
